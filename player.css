@@ -1,0 +1,14 @@
+.input {
+    width: 600px;
+}
+
+video {
+    width: 1280px;
+    height: 720px;
+}
+
+#bandwidth {
+    width: 1280px;
+    height: 200px;
+    text-align: left;
+}
